@@ -8,7 +8,8 @@ Setup Email Server
 3. Choose NameCheap basic DNS
 4. Select update Host Record
 5. Edit your Host Record
-
+```
+```
 Note:
 - DNS Manager/ Host Record will be enabled if you use NameCheap defautl DNS Servers
 - You can setup Multiple Name Server in different Host Record (NameCheap and Interserver(VPS))
@@ -23,7 +24,8 @@ Setup Business Email
 3. You may check the A, TXT, MX, NS in Zoho lookup
 4. Add additional TXT Records in DNS Manager/ Host Record
 5. Create your Business email johnmarkroco@iwebitechnology.xyz
-
+```
+```
 Note:
 - Verification of Zoho can only be used in your Domain Name DNS Provider (NameCheap)
   not The thirdparty (Interserver)

@@ -35,3 +35,9 @@ TXT       - Plain Text used for Host verification/ Short Message
 MX Record - Mail Exchange direct email to mail server i.e. (mx.zoho.com.)
 CNAME     - Domain name pointing to other Domain name
 ```
+### Troubleshooting
+Flush DNS Ubuntu
+```
+$sudo systemd-resolve --flush-caches
+$sudo systemd-resolve --statistics 
+```

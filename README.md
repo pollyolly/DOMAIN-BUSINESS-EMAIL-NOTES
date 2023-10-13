@@ -43,3 +43,13 @@ Flush DNS Ubuntu
 $sudo systemd-resolve --flush-caches
 $sudo systemd-resolve --statistics 
 ```
+Unable Verify Zoho Account (Using a Third Party Hosting Provider ) (NameCheapt and Interserver)
+```
+Trick: 
+1. In NameCheap use NameCheap Default  Name Server to enable Host Record.
+2. You need to verify it through your Domain Provider Host Record (in my case NameCheap)
+   a. Add the TXT records and MX records
+3. After the verifications (you proved you own the Domain Name)
+4. You can now copy the TXT and MX records to your third party (Hosting Provider)
+5. Setup again the NameCheap to use your Third Party Name Server of Interserver
+```

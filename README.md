@@ -14,7 +14,7 @@ Note:
 - DNS Manager/ Host Record will be enabled if you use NameCheap defautl DNS Servers
 - You can setup Multiple Name Server in different Host Record (NameCheap and Interserver(VPS))
 ```
-### Setup Business Email
+### Setup Zoho Business Email
 Zoho
 1. Sign-In in Zoho Mail
 ```

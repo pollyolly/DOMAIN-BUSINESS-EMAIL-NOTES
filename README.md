@@ -25,17 +25,13 @@ Using your Google Account
 To Verity Domain Name add the TXT Record of Zoho in
 the DNS Manager -> Host Record of Name Cheap (Original Domain Name Provider)
 ```
-3. Check your Domain Name Records
+3. Check your Domain Name Records if changes are Reflected
 ```
-Use https://zohomail.tools/#domainDetails to check
-the A (A Record HostName and IP Address), TXT (plain text), MX (Email), NS (Name Server)
+Use https://zohomail.tools/#domainDetails/iwebitechnology.xyz/ALL to check your domain
+ A (A Record HostName and IP Address), TXT (plain text), MX (Email), NS (Name Server)
 ```
-5. Add additional TXT Records in DNS Manager/ Host Record
-```
-
-```
-7. Create your Business email johnmarkroco@iwebitechnology.xyz
-```
+5. Add additional TXT Records for mail security in DNS Manager/ Host Record of NameCheap
+7. Now create your Business email johnmarkroco@iwebitechnology.xyz in Zoho
 ```
 Note:
 - Verification of Zoho can only be used in your Domain Name DNS Provider (NameCheap)
@@ -57,8 +53,8 @@ $sudo systemd-resolve --statistics
 Unable Verify Zoho Account (Using a Third Party Hosting Provider ) (NameCheapt and Interserver)
 ```
 Trick: 
-1. In NameCheap use NameCheap Default  Name Server to enable Host Record.
-2. You need to verify it through your Domain Provider Host Record (in my case NameCheap)
+1. In NameCheap use NameCheap Default Name Server to enable Host Record.
+2. You need to verify it through your Original Domain Provider Host Record (NameCheap)
    a. Add the TXT records and MX records
 3. After the verifications (you proved you own the Domain Name)
 4. You can now copy the TXT and MX records to your third party (Hosting Provider)

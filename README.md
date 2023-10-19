@@ -16,14 +16,25 @@ Note:
 ```
 ### Setup Business Email
 Zoho
+1. Sign-In in Zoho Mail
 ```
-Setup Business Email
+Using your Google Account
+```
+2. Verify your Domain Name in Zoho
+```
+To Verity Domain Name add the TXT Record of Zoho in
+the DNS Manager -> Host Record of Name Cheap (Original Domain Name Provider)
+```
+3. Check your Domain Name Records
+```
+Use https://zohomail.tools/#domainDetails to check
+the A (A Record HostName and IP Address), TXT (plain text), MX (Email), NS (Name Server)
+```
+5. Add additional TXT Records in DNS Manager/ Host Record
+```
 
-1. Sign-in via Google Account
-2. Verity domain name by adding the TXT Record in DNS Manager/ Host Record
-3. You may check the A, TXT, MX, NS in Zoho lookup
-4. Add additional TXT Records in DNS Manager/ Host Record
-5. Create your Business email johnmarkroco@iwebitechnology.xyz
+```
+7. Create your Business email johnmarkroco@iwebitechnology.xyz
 ```
 ```
 Note:

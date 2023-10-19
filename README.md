@@ -34,7 +34,7 @@ Use https://zohomail.tools/#domainDetails/iwebitechnology.xyz/ALL to check your 
 7. Now create your Business email johnmarkroco@iwebitechnology.xyz in Zoho
 ```
 Note:
-- Verification of Zoho can only be used in your Domain Name DNS Provider (NameCheap)
+- Verification of Zoho can only be used in your Original Domain Name DNS Provider (NameCheap)
   not The thirdparty (Interserver)
 ```
 ### Important Terminologies on DNS

@@ -4,7 +4,7 @@ Name Cheap
 Setup Email Server
 
 1. Select the Domain name to setup
-2. Chooose DNS Manager/ Host Record
+2. Click DNS Manager/ Host Record
 3. Choose NameCheap basic DNS
 4. Select update Host Record
 5. Edit your Host Record
